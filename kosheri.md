@@ -1,6 +1,8 @@
 # Kosheri
 
 ## Ingredients
+| Serves 4 | 
+
 | Tomato Sauce | 
 | --- | 
 | 4 tbsp olive oil |
