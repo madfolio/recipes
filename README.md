@@ -9,7 +9,7 @@
 
 ## Desserts
 
-[Chocolate Fondantss](./ChocolateFondants.md)
+[Chocolate Fondants](./ChocolateFondants.md)
 
 
 ## Cakes
