@@ -25,6 +25,39 @@
 
 ## Recipe
 
+### Cake
+
+Preheat the oven to 160C
+
+Roast the hazelnuts for 10 minutes.
+
+Reserve 50g of the hazelnuts. 
+
+When cool blitz the flour with the remaining hazelnuts. Reserve. 
+
+Blitz the chocolate. Reserve.
+
+Cream the butter and sugar. Add in the egg yolks and continue to mix. Add in the ricotta and vanilla extract and salt. 
+
+Blend the ground almonds, chocolate and blitzed hazelnuts, mix with the wet ingredients. 
+
+Whisk the egg whites to stiff peaks.
+
+Fold the egg whites and the cake mix together. 
+
+Bake at 170C for 45 mins to 1 hour. 
+
+### Ganache
+
+Boil the sugar with a little water. Make a blond caramel. 
+
+Add the 70ml of water to the hot caramel and dissolve it by boiling again. 
+
+Pour the hot water and caramel mix over the broken choclate and stir. 
+
+Once melted add in the butter. 
+
+
 
 ## Comments
 
