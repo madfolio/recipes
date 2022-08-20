@@ -1,7 +1,7 @@
 # Smokey Chilli Chutney
 
 ## Ingredients
-| 2 kilner jars plus extra | 
+| Makes 2 kilner jars plus extra | 
 | --- | 
 | 1/2 tbsp mustard seeds |
 | 1/2 tbsp coriander seeds|
