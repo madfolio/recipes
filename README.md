@@ -14,3 +14,6 @@
 
 ## Cakes
 [Maderia Cake](./MaderiaCake.md)
+
+## Chutneys
+[Smokey Chilli Chutney](./SmokeyChilliChutney.md)
