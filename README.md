@@ -1,8 +1,11 @@
 # Recipes
 
-## Pasta
+## Vegetarian
 
+[Coconut And Tomato Cassoulet](./CoconutAndTomatoCassoulet.md)
 [Kosheri](./kosheri.md)
+
+## Pasta
 
 [Pasta With Aubergine](./AuberginePasta.md)
 
