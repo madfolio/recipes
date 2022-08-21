@@ -3,6 +3,7 @@
 ## Vegetarian
 
 [Coconut And Tomato Cassoulet](./CoconutAndTomatoCassoulet.md)
+
 [Kosheri](./kosheri.md)
 
 ## Pasta
