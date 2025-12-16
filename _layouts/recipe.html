@@ -1,0 +1,34 @@
+---
+layout: default
+---
+<article class="recipe">
+  <header class="recipe__header">
+    <p class="eyebrow">Recipe</p>
+    <h1 class="title">{{ page.title }}</h1>
+
+    <div class="meta">
+      {% if page.servings %}<span><span class="meta__label">Makes</span> {{ page.servings }}</span>{% endif %}
+      {% if page.prep_time %}<span><span class="meta__label">Prep</span> {{ page.prep_time }}</span>{% endif %}
+      {% if page.cook_time %}<span><span class="meta__label">Cook</span> {{ page.cook_time }}</span>{% endif %}
+      {% if page.chill_time %}<span><span class="meta__label">Chill</span> {{ page.chill_time }}</span>{% endif %}
+    </div>
+
+    {% if page.tags %}
+      <div class="tags" aria-label="Tags">
+        {% for t in page.tags %}
+          <a class="tag" href="{{ '/tags/#' | append: t | relative_url }}">{{ t }}</a>
+        {% endfor %}
+      </div>
+    {% endif %}
+
+    {% if page.source_url %}
+      <p class="source">
+        Source: <a href="{{ page.source_url }}">{{ page.source }}</a>
+      </p>
+    {% endif %}
+  </header>
+
+  <div class="recipe__body">
+    {{ content }}
+  </div>
+</article>

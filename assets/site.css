@@ -1,0 +1,171 @@
+@import url("https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&family=Caveat:wght@600&display=swap");
+
+:root{
+  --paper:#ffffff;
+  --ink:#121212;
+  --muted:#6b6b6b;
+  --line:#e7e7e7;
+
+  --serif:"Libre Baskerville", serif;
+  --hand:"Caveat", cursive;
+
+  --radius:18px;
+}
+
+*{ box-sizing:border-box; }
+html,body{ height:100%; }
+body{
+  margin:0;
+  background:var(--paper);
+  color:var(--ink);
+  font-family:var(--serif);
+  line-height:1.6;
+}
+
+.wrap{
+  width:min(860px, 92vw);
+  margin:0 auto;
+  padding:28px 0;
+}
+
+.top{
+  position:sticky;
+  top:0;
+  background:rgba(255,255,255,.92);
+  border-bottom:1px solid var(--line);
+  backdrop-filter: blur(6px);
+}
+
+.top__inner{
+  display:flex;
+  align-items:baseline;
+  justify-content:space-between;
+  gap:16px;
+  padding:18px 0;
+}
+
+.brand{
+  text-decoration:none;
+  color:inherit;
+  display:flex;
+  gap:10px;
+  align-items:baseline;
+}
+.brand__mark{
+  font-family:var(--hand);
+  font-size:26px;
+}
+.brand__name{
+  letter-spacing:-0.02em;
+  font-weight:700;
+}
+
+.nav a{
+  text-decoration:none;
+  color:var(--muted);
+  margin-left:14px;
+  padding-bottom:2px;
+  border-bottom:1px solid transparent;
+}
+.nav a.is-active, .nav a:hover{
+  color:var(--ink);
+  border-bottom-color:var(--ink);
+}
+
+.eyebrow{
+  font-family:var(--hand);
+  font-size:22px;
+  margin:0 0 6px 0;
+  color:var(--muted);
+}
+
+.title{
+  margin:0 0 10px 0;
+  line-height:1.15;
+  font-size:clamp(28px, 4vw, 44px);
+  letter-spacing:-0.03em;
+}
+
+.card{
+  border:1px solid var(--line);
+  border-radius:var(--radius);
+  padding:18px;
+}
+
+.controls{
+  display:flex;
+  gap:12px;
+  flex-wrap:wrap;
+  margin:14px 0 18px 0;
+}
+
+input[type="search"], select{
+  font:inherit;
+  padding:10px 12px;
+  border:1px solid var(--line);
+  border-radius:12px;
+  background:#fff;
+  min-width:min(320px, 90vw);
+}
+
+.list{
+  list-style:none;
+  padding:0;
+  margin:0;
+  display:grid;
+  gap:12px;
+}
+
+.item{
+  border:1px solid var(--line);
+  border-radius:var(--radius);
+  padding:14px 16px;
+}
+
+.item a{
+  color:inherit;
+  text-decoration:none;
+  font-weight:700;
+}
+
+.meta{
+  display:flex;
+  gap:12px;
+  flex-wrap:wrap;
+  color:var(--muted);
+  font-size:14px;
+  margin-top:6px;
+}
+.meta__label{
+  font-family:var(--hand);
+  font-size:18px;
+  margin-right:6px;
+  color:var(--muted);
+}
+
+.tags{ margin-top:10px; display:flex; gap:8px; flex-wrap:wrap; }
+.tag{
+  text-decoration:none;
+  color:var(--ink);
+  border:1px solid var(--line);
+  border-radius:999px;
+  padding:6px 10px;
+  font-family:var(--hand);
+  font-size:18px;
+}
+.tag:hover{ border-color:var(--ink); }
+
+.recipe__body h2{
+  margin-top:28px;
+  border-top:1px solid var(--line);
+  padding-top:18px;
+}
+
+.source{ margin-top:12px; color:var(--muted); }
+.source a{ color:inherit; }
+
+.foot{
+  border-top:1px solid var(--line);
+  margin-top:28px;
+}
+.foot__inner{ color:var(--muted); padding:18px 0; }
