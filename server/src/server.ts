@@ -16,7 +16,7 @@ app.use("/uploads", express.static(UPLOADS_DIR));
 
 console.log("Serving uploads from:", UPLOADS_DIR);
 
-const DATA_PATH = path.resolve("data/meal-planner.json");
+const DATA_PATH = path.join(SERVER_ROOT, "data", "meal-planner.json");
 
 export type WeekPlan = {
     saturday: string | null;
