@@ -86,7 +86,7 @@ export default function WeeklyPlanner({ recipes }: Props) {
 
 
     return (
-        <div className="bg-white rounded-2xl shadow-md p-4 sticky top-4">
+        <div className="bg-white rounded-2xl shadow-md p-4 sticky top-4 max-h-[calc(100vh-2rem)] overflow-y-auto">
             <div className="flex items-center justify-between mb-3">
                 <button
                     onClick={() => setSelectedWeekKey(shiftWeekKey(selectedWeekKey, -1))}
