@@ -1,5 +1,6 @@
-﻿import { useMemo } from "react";
+import { useMemo } from "react";
 import { useNavigate, useParams } from "react-router-dom";
+import RecipeImage from "../components/RecipeImage";
 import { useRecipes } from "../hooks/useRecipes";
 import { toApiUrl } from "../utils/api";
 
@@ -27,18 +28,16 @@ export default function RecipeDetail() {
         className="mb-4 text-blue-600 hover:underline"
       >
         ← Back
-          </button>
+      </button>
 
-          
-
-          {recipe.image && (
-              <img
-                  src={toApiUrl(recipe.image.replace(/^\.\//, "/"))}
-                  alt={recipe.title}
-                  className="rounded-2xl mb-6 w-full object-cover"
-                  loading="lazy"
-              />
-          )}
+      {recipe.image && (
+        <RecipeImage
+          src={toApiUrl(recipe.image.replace(/^\.\//, "/"))}
+          alt={recipe.title}
+          className="rounded-2xl mb-6 w-full object-cover"
+          placeholderClassName="rounded-2xl mb-6 h-64 w-full bg-neutral-100"
+        />
+      )}
 
       <h1 className="text-4xl font-bold mb-2">{recipe.title}</h1>
 
