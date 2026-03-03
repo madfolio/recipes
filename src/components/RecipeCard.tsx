@@ -2,7 +2,6 @@ import { Link } from "react-router-dom";
 import { Recipe } from "../types/recipe";
 import { toApiUrl } from "../utils/api";
 
-
 type Props = {
   recipe: Recipe;
 };
@@ -20,17 +19,13 @@ export default function RecipeCard({ recipe }: Props) {
       title="Drag to planner"
     >
       {recipe.image ? (
-              <img
-                  src={toApiUrl(recipe.image.replace(/^\.\//, "/"))}
-                  alt={recipe.title}
-                  className="rounded-xl mb-3 h-40 w-full object-cover"
-                  loading="lazy"
-              />
-      ) : (
-        <div className="rounded-xl mb-3 h-40 w-full bg-neutral-100 flex items-center justify-center text-neutral-500 text-sm">
-          No image
-        </div>
-      )}
+        <img
+          src={toApiUrl(recipe.image.replace(/^\.\//, "/"))}
+          alt={recipe.title}
+          className="rounded-xl mb-3 h-40 w-full object-cover"
+          loading="lazy"
+        />
+      ) : null}
 
       <h2 className="text-xl font-semibold leading-snug">{recipe.title}</h2>
 
