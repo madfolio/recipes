@@ -29,6 +29,10 @@ export function useMealPlanner(weekKey: string, isEditable: boolean) {
 
         async function load() {
             const res = await fetch(toApiUrl(`/planner/${weekKey}`));
+            if (!res.ok) {
+                throw new Error(`Unable to load planner for week: ${weekKey}`);
+            }
+
             const data = await res.json();
             if (!cancelled) setPlan(data ?? EMPTY_WEEK);
         }
@@ -45,14 +49,24 @@ export function useMealPlanner(weekKey: string, isEditable: boolean) {
     async function updateDay(day: keyof WeekPlan, recipeId: string) {
         if (!isEditable) return;
 
+        const previous = plan;
         const updated = { ...plan, [day]: recipeId };
         setPlan(updated);
 
-        await fetch(toApiUrl(`/planner/${weekKey}`), {
-            method: "POST",
-            headers: { "Content-Type": "application/json" },
-            body: JSON.stringify(updated)
-        });
+        try {
+            const res = await fetch(toApiUrl(`/planner/${weekKey}`), {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify(updated)
+            });
+
+            if (!res.ok) {
+                throw new Error(`Unable to save planner for week: ${weekKey}`);
+            }
+        } catch (error) {
+            console.error(error);
+            setPlan(previous);
+        }
     }
 
     return { plan, updateDay };
