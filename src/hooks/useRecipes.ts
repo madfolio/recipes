@@ -10,11 +10,19 @@ export function useRecipes() {
 
     async function load() {
       const indexResponse = await fetch("/recipes/index.json");
+      if (!indexResponse.ok) {
+        throw new Error("Unable to load recipe index");
+      }
+
       const recipeFiles: string[] = await indexResponse.json();
 
       const loaded = await Promise.all(
         recipeFiles.map(async (file) => {
           const recipeResponse = await fetch(`/recipes/${file}`);
+          if (!recipeResponse.ok) {
+            throw new Error(`Unable to load recipe file: ${file}`);
+          }
+
           return (await recipeResponse.json()) as Recipe;
         })
       );
@@ -24,7 +32,13 @@ export function useRecipes() {
       }
     }
 
-    void load();
+    void load().catch((error) => {
+      console.error(error);
+
+      if (!cancelled) {
+        setRecipes([]);
+      }
+    });
 
     return () => {
       cancelled = true;
