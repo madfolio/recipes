@@ -1,6 +1,7 @@
 ﻿import { useMemo } from "react";
 import { useNavigate, useParams } from "react-router-dom";
 import { useRecipes } from "../hooks/useRecipes";
+import { toApiUrl } from "../utils/api";
 
 function getDomain(url: string): string {
   try {
@@ -14,7 +15,6 @@ export default function RecipeDetail() {
   const { id } = useParams();
   const navigate = useNavigate();
   const recipes = useRecipes();
-  const API_BASE_URL = "http://localhost:4000";
 
   const recipe = useMemo(() => recipes.find((r) => r.id === id), [recipes, id]);
 
@@ -33,7 +33,7 @@ export default function RecipeDetail() {
 
           {recipe.image && (
               <img
-                  src={`${API_BASE_URL}${recipe.image.replace(/^\.\//, "/")}`}
+                  src={toApiUrl(recipe.image.replace(/^\.\//, "/"))}
                   alt={recipe.title}
                   className="rounded-2xl mb-6 w-full object-cover"
                   loading="lazy"
