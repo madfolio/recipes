@@ -1,14 +1,22 @@
 const rawApiBaseUrl = import.meta.env.VITE_API_BASE_URL?.trim() ?? "";
 const normalizedApiBaseUrl = rawApiBaseUrl.replace(/\/$/, "");
 
-const DEFAULT_API_ORIGIN = "http://localhost:4000";
+function getDefaultApiOrigin(): string {
+  if (typeof window === "undefined") {
+    return "http://localhost:4000";
+  }
+
+  const hostname = window.location.hostname || "localhost";
+
+  return `http://${hostname}:4000`;
+}
 
 function isAbsoluteUrl(value: string): boolean {
   return /^https?:\/\//i.test(value);
 }
 
 function shouldUseApiOrigin(path: string): boolean {
-  return path.startsWith("/planner/") || path.startsWith("/uploads/");
+  return path.startsWith("/planner/");
 }
 
 export function toApiUrl(path: string): string {
@@ -21,7 +29,7 @@ export function toApiUrl(path: string): string {
   }
 
   if (shouldUseApiOrigin(normalizedPath)) {
-    return `${DEFAULT_API_ORIGIN}${normalizedPath}`;
+    return `${getDefaultApiOrigin()}${normalizedPath}`;
   }
 
   return normalizedPath;
