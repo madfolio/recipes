@@ -6,19 +6,29 @@ export function useRecipes() {
   const [recipes, setRecipes] = useState<Recipe[]>([]);
 
   useEffect(() => {
+    let cancelled = false;
+
     async function load() {
-      const modules = import.meta.glob("/public/recipes/*.json");
-      const loaded: Recipe[] = [];
+      const indexResponse = await fetch("/recipes/index.json");
+      const recipeFiles: string[] = await indexResponse.json();
 
-      for (const path in modules) {
-        const mod: any = await modules[path]();
-        loaded.push(mod.default);
+      const loaded = await Promise.all(
+        recipeFiles.map(async (file) => {
+          const recipeResponse = await fetch(`/recipes/${file}`);
+          return (await recipeResponse.json()) as Recipe;
+        })
+      );
+
+      if (!cancelled) {
+        setRecipes(loaded);
       }
-
-      setRecipes(loaded);
     }
 
-    load();
+    void load();
+
+    return () => {
+      cancelled = true;
+    };
   }, []);
 
   return recipes;
