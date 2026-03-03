@@ -6,9 +6,9 @@ function getDefaultApiOrigin(): string {
     return "http://localhost:4000";
   }
 
-  const { protocol, hostname } = window.location;
+  const hostname = window.location.hostname || "localhost";
 
-  return `${protocol}//${hostname}:4000`;
+  return `http://${hostname}:4000`;
 }
 
 function isAbsoluteUrl(value: string): boolean {
