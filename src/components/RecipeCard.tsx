@@ -1,7 +1,6 @@
 import { Link } from "react-router-dom";
 import { Recipe } from "../types/recipe";
-
-const API_BASE_URL = "http://localhost:4000";
+import { toApiUrl } from "../utils/api";
 
 
 type Props = {
@@ -22,7 +21,7 @@ export default function RecipeCard({ recipe }: Props) {
     >
       {recipe.image ? (
               <img
-                  src={`${API_BASE_URL}${recipe.image.replace(/^\.\//, "/")}`}
+                  src={toApiUrl(recipe.image.replace(/^\.\//, "/"))}
                   alt={recipe.title}
                   className="rounded-xl mb-3 h-40 w-full object-cover"
                   loading="lazy"

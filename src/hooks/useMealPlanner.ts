@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react";
+import { toApiUrl } from "../utils/api";
 
 export type WeekPlan = {
     saturday: string | null;
@@ -20,9 +21,6 @@ const EMPTY_WEEK: WeekPlan = {
     friday: null
 };
 
-
-const API_BASE_URL = "http://localhost:4000";
-
 export function useMealPlanner(weekKey: string, isEditable: boolean) {
     const [plan, setPlan] = useState<WeekPlan>(EMPTY_WEEK);
 
@@ -30,7 +28,7 @@ export function useMealPlanner(weekKey: string, isEditable: boolean) {
         let cancelled = false;
 
         async function load() {
-            const res = await fetch(`${API_BASE_URL}/planner/${weekKey}`);
+            const res = await fetch(toApiUrl(`/planner/${weekKey}`));
             const data = await res.json();
             if (!cancelled) setPlan(data ?? EMPTY_WEEK);
         }
@@ -50,7 +48,7 @@ export function useMealPlanner(weekKey: string, isEditable: boolean) {
         const updated = { ...plan, [day]: recipeId };
         setPlan(updated);
 
-        await fetch(`${API_BASE_URL}/planner/${weekKey}`, {
+        await fetch(toApiUrl(`/planner/${weekKey}`), {
             method: "POST",
             headers: { "Content-Type": "application/json" },
             body: JSON.stringify(updated)
