@@ -1,0 +1,73 @@
+{
+  "id": "kali-mirch-ka-murg",
+  "title": "Kali Mirch ka Murg",
+  "description": "Pepper chicken in a thick sauce from Punjab, marinated with garlic, ginger, and lemon, and cooked with onions and black peppercorns.",
+  "context": "Origin: Punjab",
+  "image": "",
+  "sourceUrl": "",
+  "prepTime": 30,
+  "cookTime": 45,
+  "servings": 4,
+  "ingredients": [
+    {
+      "name": "garlic paste",
+      "amount": 1,
+      "unit": "tsp"
+    },
+    {
+      "name": "ginger paste",
+      "amount": 2,
+      "unit": "tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": 1,
+      "unit": "tbsp"
+    },
+    {
+      "name": "chicken, cut into pieces and skinned",
+      "amount": 1,
+      "unit": "kg"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": 125,
+      "unit": "ml"
+    },
+    {
+      "name": "onion, sliced",
+      "amount": 100,
+      "unit": "g"
+    },
+    {
+      "name": "onion, ground to a paste",
+      "amount": 100,
+      "unit": "g"
+    },
+    {
+      "name": "black peppercorns",
+      "amount": 2,
+      "unit": "tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": null,
+      "unit": ""
+    },
+    {
+      "name": "water",
+      "amount": 125,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "To make the marinade, mix the garlic paste, ginger paste, and lemon juice together in a bowl and season with salt.",
+    "Put the chicken pieces in a large shallow dish and rub the mixture all over. Cover and set aside in the refrigerator for about 120 minutes.",
+    "Heat the oil in a large, heavy-based pan over medium heat. Add the sliced onion and stir-fry for 2 minutes, or until translucent.",
+    "Add the onion paste and peppercorns and stir-fry for about 1–2 minutes, or until light brown.",
+    "Add the marinated chicken and fry for about 10 minutes, or until the moisture has evaporated.",
+    "Pour in the water and bring to the boil, then reduce the heat to low and simmer for about 10 minutes.",
+    "Uncover, increase the heat and cook for about 20 minutes, or until the oil rises to the surface and the chicken is cooked."
+  ],
+  "tags": ["chicken", "indian", "punjab", "spicy", "main"]
+}

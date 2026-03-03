@@ -1,0 +1,31 @@
+{
+  "id": "ham-hocks-with-boston-beans",
+  "title": "Ham hocks with Boston beans",
+  "description": "Slow-cooked ham hocks with white beans, molasses, mustard and spices baked in the oven.",
+  "context": "",
+  "image": "",
+  "sourceUrl": "",
+  "prepTime": null,
+  "cookTime": 240,
+  "servings": 9,
+  "ingredients": [
+    { "name": "dried cannellini or haricot beans", "amount": 500, "unit": "g" },
+    { "name": "ham or chicken stock", "amount": 1250, "unit": "ml" },
+    { "name": "muscovado sugar", "amount": 175, "unit": "g" },
+    { "name": "mustard powder", "amount": 4, "unit": "tsp" },
+    { "name": "large onions", "amount": 4, "unit": "" },
+    { "name": "cloves", "amount": 16, "unit": "" },
+    { "name": "star anise", "amount": 3, "unit": "" },
+    { "name": "pork hocks", "amount": 4, "unit": "" },
+    { "name": "peppercorns", "amount": 12, "unit": "" },
+    { "name": "molasses", "amount": null, "unit": "" }
+  ],
+  "steps": [
+    "Soak the beans overnight. Drain and cover with stock in a pan. Bring to a boil, skim any scum and simmer for 30 minutes. Pour off some stock, leaving enough to just cover the beans.",
+    "Preheat the oven to 140°C.",
+    "Put the molasses, muscovado sugar and mustard powder in a bowl. Add a ladleful of stock from the bean pot and stir until dissolved.",
+    "Add the studded onions and star anise to the pot, followed by the molasses mixture. Bury the hocks in the beans, add the peppercorns and bring to a boil.",
+    "Cover and cook in the oven for 4 hours."
+  ],
+  "tags": ["pork", "beans", "baked", "slow-cooked"]
+}

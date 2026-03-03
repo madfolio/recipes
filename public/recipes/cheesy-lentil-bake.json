@@ -1,0 +1,72 @@
+{
+  "id": "cheesy-lentil-bake",
+  "title": "Cheesy Lentil Bake",
+  "description": "A hearty baked lentil dish made with red lentils, vegetables, cheese and breadcrumbs.",
+  "context": "",
+  "image": "",
+  "sourceUrl": "",
+  "prepTime": null,
+  "cookTime": 50,
+  "servings": null,
+  "ingredients": [
+    {
+      "name": "carrots (grated)",
+      "amount": 2,
+      "unit": ""
+    },
+    {
+      "name": "onion (finely chopped)",
+      "amount": 1,
+      "unit": ""
+    },
+    {
+      "name": "red lentils",
+      "amount": 200,
+      "unit": "g"
+    },
+    {
+      "name": "vegetable stock",
+      "amount": 600,
+      "unit": "ml"
+    },
+    {
+      "name": "cheddar cheese (grated)",
+      "amount": 100,
+      "unit": "g"
+    },
+    {
+      "name": "bread (crumbed)",
+      "amount": 70,
+      "unit": "g"
+    },
+    {
+      "name": "salt",
+      "amount": null,
+      "unit": ""
+    },
+    {
+      "name": "pepper",
+      "amount": null,
+      "unit": ""
+    },
+    {
+      "name": "oil",
+      "amount": null,
+      "unit": ""
+    }
+  ],
+  "steps": [
+    "Heat some oil in a large frying pan.",
+    "Add carrot and onion. Stir fry for 5–10 minutes.",
+    "Stir in red lentils and add a little hot stock. Bring to boil.",
+    "Once absorbed add more stock. Continue adding in stages, stirring so it does not stick. Cook lentils for about 20 minutes.",
+    "Heat oven to 180°C.",
+    "Add cheese and breadcrumbs. Stir until cheese is melted.",
+    "Line an ovenproof dish with baking paper.",
+    "Place mixture in dish and press down.",
+    "Sprinkle with grated cheese.",
+    "Bake for 30 minutes.",
+    "Leave to cool and firm up before serving."
+  ],
+  "tags": ["vegetarian", "bake", "lentils", "cheese"]
+}

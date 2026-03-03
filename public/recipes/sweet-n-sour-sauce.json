@@ -1,0 +1,70 @@
+{
+  "id": "sweet-n-sour-sauce",
+  "title": "Sweet 'n' Sour sauce",
+  "description": "A simple homemade sweet and sour sauce made with pineapple juice, vinegar, sugar, and soy sauce, thickened with cornflour.",
+  "context": "",
+  "image": "",
+  "sourceUrl": "",
+  "prepTime": null,
+  "cookTime": null,
+  "servings": null,
+  "ingredients": [
+    {
+      "name": "pineapple chunks (tinned)",
+      "amount": null,
+      "unit": ""
+    },
+    {
+      "name": "cornflour",
+      "amount": 2,
+      "unit": "tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": 2,
+      "unit": "tbsp"
+    },
+    {
+      "name": "white wine vinegar",
+      "amount": 2,
+      "unit": "tbsp"
+    },
+    {
+      "name": "soft brown sugar",
+      "amount": 2,
+      "unit": "tbsp"
+    },
+    {
+      "name": "tomato ketchup",
+      "amount": 2,
+      "unit": "tbsp"
+    },
+    {
+      "name": "chilli flakes",
+      "amount": 0.5,
+      "unit": "tsp"
+    },
+    {
+      "name": "pineapple juice",
+      "amount": 150,
+      "unit": "ml"
+    },
+    {
+      "name": "water",
+      "amount": 150,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    "Drain the pineapple chunks and reserve 150 ml of the juice.",
+    "Mix the cornflour with a little of the reserved pineapple juice at a time until smooth.",
+    "Add 150 ml water.",
+    "Add the soy sauce, white wine vinegar, soft brown sugar, tomato ketchup, and chilli flakes.",
+    "Stir into any vegetable or meat combination and bring to the boil until thickened."
+  ],
+  "tags": [
+    "sauce",
+    "sweetandsour",
+    "condiment"
+  ]
+}

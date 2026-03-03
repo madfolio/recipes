@@ -1,0 +1,63 @@
+﻿{
+  "id": "chocolate-fondant",
+  "title": "Chocolate Fondant",
+  "description": "A classic gooey chocolate fondant with a molten centre — perfect for entertaining and served with ice cream or caramel sauce.",
+  "context": "A show‑stopping dessert we tried for a dinner party — warm and indulgent with melting chocolate at the centre.",
+  "prepTime": 45,
+  "cookTime": 15,
+  "servings": 9,
+  "ingredients": [
+    {
+      "name": "melted butter (for brushing)",
+      "amount": 50,
+      "unit": "g"
+    },
+    {
+      "name": "cocoa powder (for dusting)",
+      "amount": 0,
+      "unit": ""
+    },
+    {
+      "name": "dark chocolate",
+      "amount": 200,
+      "unit": "g"
+    },
+    {
+      "name": "butter",
+      "amount": 200,
+      "unit": "g"
+    },
+    {
+      "name": "golden caster sugar",
+      "amount": 200,
+      "unit": "g"
+    },
+    {
+      "name": "eggs",
+      "amount": 4,
+      "unit": "pcs"
+    },
+    {
+      "name": "egg yolks",
+      "amount": 4,
+      "unit": "pcs"
+    },
+    {
+      "name": "plain flour",
+      "amount": 200,
+      "unit": "g"
+    }
+
+  ],
+  "steps": [
+    "Brush the inside of moulds with melted butter and dust with cocoa powder.",
+    "Melt dark chocolate and butter together over simmering water and cool slightly.",
+    "Whisk eggs, egg yolks and sugar until thick and pale.",
+    "Sift flour into the egg mixture and beat together.",
+    "Fold the melted chocolate mixture into the batter until combined.",
+    "Divide batter evenly between the prepared moulds and chill for at least 20 minutes.",
+    "Preheat oven to 200°C (180°C fan / gas 6) and bake for 10–12 minutes until tops form a crust.",
+    "Let rest 1 minute, then loosen and turn out the fondants."
+  ],
+  "tags": [ "dessert", "chocolate", "party", "baking" ]
+}

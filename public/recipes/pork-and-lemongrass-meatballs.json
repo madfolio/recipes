@@ -1,0 +1,32 @@
+{
+  "id": "pork-and-lemongrass-meatballs",
+  "title": "Pork and Lemongrass Meatballs",
+  "description": "Moreish pork and lemongrass meatballs served with a sweet chilli cucumber sauce, perfect with rice and seasonal vegetables.",
+  "context": "If you prefer, use chicken or turkey mince instead of pork to make these moreish meatballs.",
+  "image": "",
+  "sourceUrl": "",
+  "prepTime": 15,
+  "cookTime": 18,
+  "servings": 4,
+  "ingredients": [
+    { "name": "spring onions", "amount": 4, "unit": "" },
+    { "name": "garlic clove", "amount": 1, "unit": "" },
+    { "name": "lemongrass stalk", "amount": 1, "unit": "" },
+    { "name": "fresh coriander", "amount": null, "unit": "handful" },
+    { "name": "soy sauce", "amount": 1, "unit": "tbsp" },
+    { "name": "pork mince", "amount": 500, "unit": "g" },
+    { "name": "caster sugar", "amount": 50, "unit": "g" },
+    { "name": "rice vinegar", "amount": 1.5, "unit": "tbsp" },
+    { "name": "red chilli", "amount": 1, "unit": "" },
+    { "name": "cucumber", "amount": 5, "unit": "cm" },
+    { "name": "sesame oil", "amount": 2, "unit": "tsp" }
+  ],
+  "steps": [
+    "Preheat oven to 200°C (180°C fan) mark 6. Line a large baking tray with baking parchment.",
+    "Put spring onions, garlic, lemongrass, coriander, soy sauce and some seasoning into a food processor. Whizz until finely chopped, then add pork mince and whizz again to combine.",
+    "Shape mixture into about 24 walnut-size balls and arrange on the lined tray. Cook for 15–18 minutes until golden and cooked through; any juices can be poured over the meatballs when you serve.",
+    "Meanwhile, put the sugar, rice vinegar, chilli and 3 tbsp water into a small pan. Heat gently to dissolve the sugar, then turn up the heat and bubble for 1 minute. Take off the heat and stir in the cucumber and sesame oil.",
+    "Empty the sauce into a small serving bowl. Serve meatballs with the sauce, boiled rice and seasonal vegetables."
+  ],
+  "tags": ["pork", "meatballs", "asian", "baked", "dinner"]
+}

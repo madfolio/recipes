@@ -1,0 +1,42 @@
+{
+  "id": "mutton-kolhapuri",
+  "title": "Mutton Kolhapuri",
+  "description": "A hot lamb curry from Maharashtra made with roasted local spices, coconut and chilli.",
+  "context": "Origin: Maharashtra",
+  "image": "",
+  "sourceUrl": "",
+  "prepTime": 30,
+  "cookTime": 90,
+  "servings": 6,
+  "ingredients": [
+    { "name": "coriander seeds", "amount": 3, "unit": "tsp" },
+    { "name": "cumin seeds", "amount": 3, "unit": "tsp" },
+    { "name": "poppy seeds", "amount": 1, "unit": "tbsp" },
+    { "name": "cloves", "amount": 1, "unit": "tsp" },
+    { "name": "whole black peppercorns", "amount": 1, "unit": "tsp" },
+    { "name": "ground star anise", "amount": 1, "unit": "tsp" },
+    { "name": "cinnamon stick", "amount": 1, "unit": "piece" },
+    { "name": "desiccated coconut", "amount": 4, "unit": "tsp" },
+    { "name": "vegetable oil", "amount": 200, "unit": "ml" },
+    { "name": "onions, chopped", "amount": 225, "unit": "g" },
+    { "name": "ginger paste", "amount": 1, "unit": "tbsp" },
+    { "name": "garlic paste", "amount": 1, "unit": "tbsp" },
+    { "name": "lamb, cut into 2.5-cm cubes", "amount": 1000, "unit": "g" },
+    { "name": "chilli powder", "amount": 3, "unit": "tsp" },
+    { "name": "ground turmeric", "amount": 1, "unit": "tsp" },
+    { "name": "tomatoes, chopped", "amount": null, "unit": "" },
+    { "name": "salt", "amount": null, "unit": "" },
+    { "name": "chopped coriander (cilantro), to garnish", "amount": null, "unit": "" },
+    { "name": "water", "amount": 250, "unit": "ml" }
+  ],
+  "steps": [
+    "Stir-fry all the whole spices, ground star anise and desiccated coconut lightly on a tawa or in a dry frying pan for about 1 minute, or until roasted, then transfer to a spice grinder and process until ground.",
+    "Heat the oil in a large, heavy-based pan over medium heat, add the onions and stir-fry for about 4 minutes, or until light brown.",
+    "Add the ginger paste and garlic paste and fry well for about 2 minutes.",
+    "Add the lamb to the pan and fry for about 5 minutes.",
+    "Add the chilli powder, turmeric and chopped tomatoes and season with salt. Fry for about 5 minutes.",
+    "Add all the ground spices and 250 ml water. Reduce the heat, cover and cook for about 90 minutes, or until the meat is tender.",
+    "Serve hot garnished with chopped coriander."
+  ],
+  "tags": ["indian", "lamb", "curry", "spicy", "maharashtra"]
+}

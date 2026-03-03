@@ -1,0 +1,29 @@
+{
+  "id": "pasta-with-aubergine",
+  "title": "Pasta with aubergine",
+  "description": "A simple Sicilian pasta dish where aubergine, ripe tomatoes, basil and salted ricotta combine into a sublime summer meal.",
+  "context": "Sicilian Summer: An Adventure in Cooking with My Grandsons by Mary Taylor Simeti (Silverwood).",
+  "image": "",
+  "sourceUrl": "",
+  "prepTime": null,
+  "cookTime": null,
+  "servings": 6,
+  "ingredients": [
+    { "name": "aubergines", "amount": 2, "unit": "" },
+    { "name": "salt", "amount": null, "unit": "" },
+    { "name": "black pepper", "amount": null, "unit": "" },
+    { "name": "olive oil", "amount": 300, "unit": "ml" },
+    { "name": "garlic cloves", "amount": 2, "unit": "" },
+    { "name": "ripe tomatoes, peeled and chopped", "amount": 720, "unit": "ml" },
+    { "name": "tomato sauce", "amount": 580, "unit": "ml" },
+    { "name": "spaghetti or penne", "amount": 675, "unit": "g" },
+    { "name": "salted ricotta, grated", "amount": 235, "unit": "g" },
+    { "name": "fresh basil leaves, coarsely chopped", "amount": null, "unit": "" }
+  ],
+  "steps": [
+    "Wash the aubergines and cut them, unpeeled, into 5mm slices (Palermo style) or into finger-size sticks. Sprinkle with abundant salt and allow them to dry for a couple of hours. Rinse off the salt, drain, pat dry, and fry the aubergines in lots of olive oil until golden brown on all sides. Drain on kitchen paper.",
+    "Saute the garlic cloves and the tomatoes together with very little salt and the pepper in about 5 tbsp olive oil for about 15 minutes.",
+    "Cook the pasta in abundant boiling salted water until al dente, then drain. Toss it in a serving bowl with half the ricotta and the basil. Spoon the aubergine and tomato mixture on top and sprinkle with the rest of the ricotta."
+  ],
+  "tags": ["sicilian", "pasta", "aubergine", "italian", "vegetarian"]
+}

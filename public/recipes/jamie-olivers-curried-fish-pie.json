@@ -1,0 +1,41 @@
+{
+  "id": "jamie-olivers-curried-fish-pie",
+  "title": "Jamie Oliver's Curried Fish Pie",
+  "description": "A comforting curried fish pie with delicate fish, prawns and a crispy potato topping, layered with fragrant spices and coconut milk.",
+  "context": "I've done a few fish pies in my time, and very nice they are too, but there's no way I could do this book without including one, so I was faced with the question of legitimately where I could go that's different from where I've been before. Well, the answer is India. This comforting curried fish pie has amazing perfumed layers of flavour that will slap you round the face yet still give you delicate fish and a crispy potato top. Throw this into the mix at a dinner party and you'll be winning on both the surprise and the flavour fronts.",
+  "image": "",
+  "sourceUrl": "",
+  "prepTime": null,
+  "cookTime": 60,
+  "servings": null,
+  "ingredients": [
+    { "name": "garlic cloves", "amount": 4, "unit": "" },
+    { "name": "fresh red chillies", "amount": null, "unit": "" },
+    { "name": "groundnut oil", "amount": null, "unit": "" },
+    { "name": "curry leaves", "amount": null, "unit": "" },
+    { "name": "black mustard seeds", "amount": 1.5, "unit": "tsp" },
+    { "name": "Maris Piper potatoes", "amount": 1.2, "unit": "kg" },
+    { "name": "large free-range eggs", "amount": 2, "unit": "" },
+    { "name": "unsalted butter", "amount": null, "unit": "" },
+    { "name": "semi-skimmed milk", "amount": null, "unit": "ml" },
+    { "name": "onions", "amount": 2, "unit": "" },
+    { "name": "ginger", "amount": null, "unit": "" },
+    { "name": "fenugreek seeds", "amount": 1, "unit": "tsp" },
+    { "name": "turmeric", "amount": 1, "unit": "tsp" },
+    { "name": "light coconut milk", "amount": 400, "unit": "ml" },
+    { "name": "baby spinach", "amount": 200, "unit": "g" },
+    { "name": "lemon", "amount": 0.5, "unit": "" },
+    { "name": "ripe vine tomatoes", "amount": 4, "unit": "" },
+    { "name": "lemon sole fillets", "amount": 180, "unit": "g" },
+    { "name": "haddock fillets", "amount": 150, "unit": "g" },
+    { "name": "salmon fillets", "amount": 150, "unit": "g" },
+    { "name": "large raw king prawns", "amount": 150, "unit": "g" }
+  ],
+  "steps": [
+    "Peel the garlic and finely slice with the chilli (seeds and all), then put into a frying pan on a medium-low heat with a good couple of tablespoons of oil. Add the curry leaves and mustard seeds and fry gently for 5 minutes, or until the garlic is lightly golden, then remove from the heat and put aside (this is called a temper).",
+    "Peel and roughly chop the potatoes and cook in boiling salted water for 12 to 15 minutes, or until tender. Boil the eggs in the same pan for the first 7 minutes too, then remove them to cold water. Once cooked, drain the potatoes and mash really well with the butter, a few splashes of milk and a pinch of sea salt and pepper.",
+    "Peel and finely chop the onions and ginger and cook in a heavy-bottomed pan with half the temper, the fenugreek and turmeric for 5 minutes, stirring regularly. Pour in the coconut milk, tear in the spinach and finely grate in the lemon zest. Bring to the boil, then remove from the heat once the spinach has wilted and the sauce has thickened. Transfer to a high-sided baking dish (28cm square). Roughly chop and scatter over the tomatoes, then leave to cool.",
+    "Preheat the oven to 180°C. Peel and quarter the eggs, then dot over and poke them into the sauce. Cut the fish into bite-sized chunks and intersperse around the dish with the prawns. Top with the mash and rough it up with a fork, or pipe it on with a star-shaped nozzle. Bake for 40 minutes, or until golden and bubbling at the edges. Reheat the remaining temper with a splash of oil just before serving, and spoon over the top to finish."
+  ],
+  "tags": ["fish", "curry", "pie", "seafood", "baked"]
+}

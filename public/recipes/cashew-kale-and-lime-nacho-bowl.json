@@ -1,0 +1,94 @@
+{
+    "id": "cashew-kale-and-lime-nacho-bowl",
+    "title": "Cashew, kale and lime nacho bowl",
+    "description": "A vibrant nacho bowl topped with crispy tortillas, kale, sweetcorn, avocado and a zesty cashew-lime cream.",
+    "context": "",
+    "image": "",
+    "sourceUrl": "",
+    "prepTime": null,
+    "cookTime": 15,
+    "servings": 4,
+    "ingredients": [
+        {
+            "name": "raw cashews",
+            "amount": 100,
+            "unit": "g"
+        },
+        {
+            "name": "limes",
+            "amount": 2,
+            "unit": ""
+        },
+        {
+            "name": "green chillies",
+            "amount": 2,
+            "unit": ""
+        },
+        {
+            "name": "fresh coriander",
+            "amount": 1,
+            "unit": "bunch"
+        },
+        {
+            "name": "water",
+            "amount": 130,
+            "unit": "ml"
+        },
+        {
+            "name": "corn cobs",
+            "amount": 2,
+            "unit": ""
+        },
+        {
+            "name": "avocado",
+            "amount": 1,
+            "unit": ""
+        },
+        {
+            "name": "wholemeal tortillas",
+            "amount": 4,
+            "unit": ""
+        },
+        {
+            "name": "kale",
+            "amount": 100,
+            "unit": "g"
+        },
+        {
+            "name": "cheddar cheese",
+            "amount": 100,
+            "unit": "g"
+        },
+        {
+            "name": "olive oil",
+            "amount": 1,
+            "unit": "tbsp"
+        },
+        {
+            "name": "smoked paprika",
+            "amount": 1,
+            "unit": "tsp"
+        },
+        {
+            "name": "salt",
+            "amount": null,
+            "unit": ""
+        },
+        {
+            "name": "black pepper",
+            "amount": null,
+            "unit": ""
+        }
+    ],
+    "steps": [
+        "Preheat the oven to 200°C. Line two large baking trays.",
+        "Cut the tortillas into triangles, spread over a baking tray, drizzle with olive oil and sprinkle with salt, black pepper and smoked paprika. Bake for 10–15 minutes until lightly browned and crisp.",
+        "Tear the kale into pieces, place on another baking tray, drizzle with a little olive oil and season with salt and pepper. Roast for 10–15 minutes until crisp.",
+        "Soak the cashews in boiling water for 10 minutes, then drain.",
+        "Blend the drained cashews with the juice of 1 lime, green chillies, coriander stalks, a good pinch of salt and 130ml water until smooth and creamy. Add more water if needed to loosen.",
+        "Cut the kernels from the corn cobs. Slice the avocado and squeeze over the juice of half a lime.",
+        "Scatter the kale over the baked tortillas, grate over the cheddar and place under a hot grill for a couple of minutes until the cheese bubbles.",
+        "Spoon over the cashew cream, scatter over the corn and avocado, and finish with coriander leaves and extra lime wedges."
+    ],
+    "tags": [ "vegetarian", "nachos", "kale", "cashew", "lime" ]
+}

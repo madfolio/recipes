@@ -1,0 +1,41 @@
+{
+"id": "lemon-cake",
+"title": "lemon cake",
+"description": "A classic lemon cake from Le Manoir, delicious for afternoon tea.",
+"context": "Pâtisserie course 2012. Raymond Blanc Cookery School. Introduction notes that this is a real favourite at Le Manoir. Planning ahead: You can make the glaze a day in advance.",
+"image": "",
+"sourceUrl": "",
+"prepTime": 10,
+"cookTime": 40,
+"servings": 1,
+"ingredients": [
+{ "name": "eggs", "amount": 250, "unit": "g" },
+{ "name": "sugar, caster", "amount": 300, "unit": "g" },
+{ "name": "cream, double", "amount": 140, "unit": "g" },
+{ "name": "lemon zest, finely grated", "amount": 3, "unit": "whole" },
+{ "name": "flour, plain", "amount": 240, "unit": "g" },
+{ "name": "baking powder", "amount": 2, "unit": "g" },
+{ "name": "rum, dark", "amount": 25, "unit": "ml" },
+{ "name": "salt", "amount": 1, "unit": "g" },
+{ "name": "butter, unsalted, melted", "amount": 40, "unit": "g" },
+{ "name": "grapeseed oil", "amount": 40, "unit": "g" },
+{ "name": "apricot jelly", "amount": 40, "unit": "g" },
+{ "name": "lemon juice", "amount": 30, "unit": "ml" },
+{ "name": "lemon zest, finely grated (for glaze)", "amount": 0.5, "unit": "whole" },
+{ "name": "sugar, icing", "amount": 165, "unit": "g" }
+],
+"steps": [
+"Preheat your oven to 180°C.",
+"In a large bowl whisk together the eggs, sugar, cream and lemon zest.",
+"Separately sieve together the flour and baking powder twice, then add to the bowl followed by the rum and salt, melted butter and oil. Whisk until smooth.",
+"Grease your loaf tin with a little softened butter and line with greaseproof paper.",
+"Fill the tin with the mixture two thirds full and bake for 50–60 minutes, turning halfway through cooking.",
+"To check if it is cooked insert a small knife blade into the middle of the cake; if it comes out clean it is done.",
+"Turn it out onto a baking rack and leave to cool.",
+"Lightly brush the cake all over with the hot apricot jelly.",
+"In a small saucepan gently warm the lemon juice and lemon zest and mix with the icing sugar to form a white, cloudy glaze.",
+"Brush the glaze over the cake and leave for a few minutes to set before slicing.",
+"For a smoother finish, return the glazed cake to the oven for a few minutes to gently warm and smooth out any lumps in the icing."
+],
+"tags": ["cake", "lemon", "baking", "dessert", "loaf"]
+}

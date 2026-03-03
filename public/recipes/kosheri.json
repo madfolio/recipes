@@ -1,0 +1,48 @@
+{
+  "id": "kosheri",
+  "title": "Koshari",
+  "description": "This lentil and rice dish is one of the most popular in Egypt. It is usually served with a spicy tomato sauce, but is also delicious with cucumber, tomato and yogurt salad.",
+  "context": "",
+  "image": "/uploads/koshari.jpeg",
+  "sourceUrl": "",
+  "prepTime": null,
+  "cookTime": null,
+  "servings": 4,
+  "ingredients": [
+    { "name": "olive oil", "amount": 4, "unit": "tbsp" },
+    { "name": "garlic cloves, crushed", "amount": 2, "unit": "" },
+    { "name": "hot red chillies, seeded and diced", "amount": 2, "unit": "" },
+    { "name": "ripe tomatoes, chopped (tinned are fine)", "amount": 8, "unit": "" },
+    { "name": "water", "amount": 370, "unit": "ml" },
+    { "name": "cider vinegar", "amount": 4, "unit": "tbsp" },
+    { "name": "salt", "amount": 3, "unit": "tsp" },
+    { "name": "ground cumin", "amount": 2, "unit": "tsp" },
+    { "name": "coriander leaves, chopped", "amount": 20, "unit": "g" },
+
+    { "name": "green lentils", "amount": 300, "unit": "g" },
+    { "name": "basmati rice", "amount": 200, "unit": "g" },
+    { "name": "unsalted butter", "amount": 40, "unit": "g" },
+    { "name": "vermicelli noodles, broken into 4cm pieces", "amount": 50, "unit": "g" },
+    { "name": "chicken stock or water", "amount": 400, "unit": "ml" },
+    { "name": "grated nutmeg", "amount": 0.5, "unit": "tsp" },
+    { "name": "ground cinnamon", "amount": 1.5, "unit": "tsp" },
+    { "name": "salt", "amount": 1.5, "unit": "tsp" },
+    { "name": "black pepper", "amount": 0.5, "unit": "tsp" },
+    { "name": "olive oil", "amount": 4, "unit": "tbsp" },
+    { "name": "onions, halved and thinly sliced", "amount": 2, "unit": "" }
+  ],
+  "steps": [
+    "First make the sauce. Heat the oil in a pan, add the garlic and chilli, and fry for two minutes.",
+    "Add the tomatoes, water, vinegar, salt and cumin, bring to a boil, then reduce the heat and simmer for 20 minutes, until slightly thickened.",
+    "Remove from the heat, stir in the coriander and taste – add salt, pepper or coriander as required. Keep hot or leave to cool (adjust the seasoning once cold).",
+    "To make the kosheri, put the lentils in a large sieve and wash them under the cold tap. Transfer to a large saucepan, cover with cold water and bring to a boil. Reduce the heat and simmer for 25 minutes – the lentils should be tender but far from mushy. Drain in a colander and set aside.",
+    "In a large bowl, cover the rice with cold water, wash and drain.",
+    "Melt the butter in a large pan over a medium heat. Add the vermicelli, stir and continue frying and stirring until they turn golden brown.",
+    "Add the rice and stir to coat in the butter. Add the stock, nutmeg, cinnamon, salt and pepper, bring to a boil, cover, reduce the heat to its lowest setting and simmer for 12 minutes.",
+    "Turn off the heat, remove the lid, cover with a clean tea towel and put the lid back on. Leave for about five minutes.",
+    "Heat the olive oil in a large frying pan and sauté the onions over medium heat for about 20 minutes, until dark brown. Drain on kitchen paper.",
+    "Gently break up the rice with a fork and add the lentils and most of the onions, reserving a few for garnish. Taste, adjust seasoning and pile high on a platter.",
+    "Top with the reserved onions and serve hot, with the sauce."
+  ],
+  "tags": ["egyptian", "lentils", "rice", "vegetarian"]
+}

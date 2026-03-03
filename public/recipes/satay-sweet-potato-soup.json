@@ -1,0 +1,33 @@
+{
+  "id": "satay-sweet-potato-soup",
+  "title": "Satay Sweet Potato Soup",
+  "description": "A warming sweet potato and red lentil soup with peanut butter, ginger and chilli, topped with crisp potato peelings and lime.",
+  "context": "Look for peanut butter without added palm oil, salt or sugar.",
+  "image": "",
+  "sourceUrl": "",
+  "prepTime": 15,
+  "cookTime": 30,
+  "servings": 4,
+  "ingredients": [
+    { "name": "sweet potatoes", "amount": 425, "unit": "g" },
+    { "name": "oil", "amount": 2, "unit": "tbsp" },
+    { "name": "onions", "amount": 2, "unit": "" },
+    { "name": "carrots", "amount": 2, "unit": "" },
+    { "name": "garlic cloves", "amount": 2, "unit": "" },
+    { "name": "fresh ginger", "amount": 5, "unit": "cm" },
+    { "name": "red chillies", "amount": 2, "unit": "" },
+    { "name": "chopped tomatoes (canned)", "amount": 400, "unit": "g" },
+    { "name": "red lentils", "amount": 125, "unit": "g" },
+    { "name": "vegetable stock", "amount": 1.4, "unit": "l" },
+    { "name": "limes (juice)", "amount": 2, "unit": "" },
+    { "name": "peanut butter", "amount": 3, "unit": "tbsp" },
+    { "name": "natural roasted peanuts", "amount": 25, "unit": "g" }
+  ],
+  "steps": [
+    "Preheat oven to 200°C (180°C fan). Scatter the sweet potato peelings on a baking tray. Toss with 1 tbsp of the oil and some seasoning. Cook for 15–20 minutes until golden and crisp.",
+    "Heat the remaining 1 tbsp oil in a large pan and fry onions and carrots for 5 minutes until beginning to soften. Add garlic, ginger and most of the chilli, stirring for 1 minute. Add sweet potato chunks, tomatoes, lentils, stock and lime juice. Bring to the boil, then simmer for 20 minutes or until the sweet potatoes are tender.",
+    "Add the peanut butter. For a chunky texture, mash the soup. For a smooth texture, blend in batches then return to the pan. Check seasoning, adding water to loosen if needed.",
+    "Reheat if necessary. Ladle into warm bowls and garnish with remaining chilli and peanuts. Serve with the crisp potato peelings and lime wedges."
+  ],
+  "tags": ["soup", "vegetarian", "vegan", "glutenfree", "dairyfree", "spicy"]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "courgette-and-bacon-fritters",
+  "title": "Courgette and Bacon Fritters",
+  "description": "Golden savoury fritters made with courgette, bacon, ricotta and herbs, perfect for brunch or a light meal.",
+  "context": "",
+  "image": "",
+  "sourceUrl": "",
+  "prepTime": 30,
+  "cookTime": 30,
+  "servings": 12,
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": null,
+      "unit": ""
+    },
+    {
+      "name": "smoked streaky bacon rashers",
+      "amount": 8,
+      "unit": ""
+    },
+    {
+      "name": "self-raising flour",
+      "amount": 175,
+      "unit": "g"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": 175,
+      "unit": "g"
+    },
+    {
+      "name": "milk",
+      "amount": 125,
+      "unit": "ml"
+    },
+    {
+      "name": "medium eggs",
+      "amount": 2,
+      "unit": ""
+    },
+    {
+      "name": "courgettes",
+      "amount": 2,
+      "unit": ""
+    },
+    {
+      "name": "broccoli florets",
+      "amount": 50,
+      "unit": "g"
+    },
+    {
+      "name": "freshly chopped chives",
+      "amount": 4,
+      "unit": "tbsp"
+    }
+  ],
+  "steps": [
+    "Heat a little olive oil in a large non-stick frying pan and cook the bacon until golden and crisp. Set aside.",
+    "Put the flour into a large bowl, then mix in the ricotta, milk and eggs to make a smooth batter. Lift handfuls of the grated courgette over the sink and squeeze as hard as you can to remove excess moisture, then stir it into the batter.",
+    "Stir in the broccoli, chives and cooked bacon. Season well with salt.",
+    "Wipe out the bacon pan, add a little olive oil and return to a low–medium heat. Add large spoonfuls of the batter, spreading slightly to level. Cook in batches for about 4 minutes until golden on the bottom, then flip and cook for a further 4 minutes until both sides are golden.",
+    "Lift onto a plate, cover with foil and keep warm while you cook the rest of the batter.",
+    "If desired, poach eggs to serve on top. Serve with a green salad.",
+    "To freeze ahead: Cool completely, stack with baking parchment between layers and freeze in a freezerproof container for up to 2 months. Reheat in a single layer on baking sheets in an oven preheated to 200°C (180°C fan) for 15–20 minutes until piping hot."
+  ],
+  "tags": ["fritters", "brunch", "bacon", "courgette", "savoury"]
+}

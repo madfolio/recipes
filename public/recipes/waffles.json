@@ -1,0 +1,70 @@
+{
+  "id": "waffles",
+  "title": "Waffles",
+  "description": "A simple waffle batter made with buttermilk, milk, flour, sugar, and melted butter, lightly flavored with vanilla and cardamom.",
+  "context": "",
+  "image": "",
+  "sourceUrl": "",
+  "prepTime": null,
+  "cookTime": null,
+  "servings": null,
+  "ingredients": [
+    {
+      "name": "egg",
+      "amount": 2,
+      "unit": ""
+    },
+    {
+      "name": "sugar",
+      "amount": 100,
+      "unit": "g"
+    },
+    {
+      "name": "buttermilk",
+      "amount": 200,
+      "unit": "ml"
+    },
+    {
+      "name": "milk",
+      "amount": 150,
+      "unit": "ml"
+    },
+    {
+      "name": "water",
+      "amount": 100,
+      "unit": "ml"
+    },
+    {
+      "name": "flour",
+      "amount": 350,
+      "unit": "g"
+    },
+    {
+      "name": "baking powder",
+      "amount": 1.5,
+      "unit": "tsp"
+    },
+    {
+      "name": "vanilla sugar",
+      "amount": 1,
+      "unit": "tsp"
+    },
+    {
+      "name": "cardamom powder",
+      "amount": 0.5,
+      "unit": "tsp"
+    },
+    {
+      "name": "melted butter",
+      "amount": 120,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Combine the butter, sugar, salt, vanilla sugar, flour, baking powder and cream.",
+    "Mix well.",
+    "Add milk until your batter has the right consistency.",
+    "If you want to use eggs in the batter, mix these in together with the other ingredients."
+  ],
+  "tags": [ "waffle", "dessert", "breakfast", "sweet" ]
+}

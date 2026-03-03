@@ -1,0 +1,9 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    @apply bg-neutral-50 text-neutral-800;
+    font-family: Arial, Helvetica, sans-serif;
+}

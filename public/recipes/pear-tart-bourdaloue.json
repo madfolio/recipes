@@ -1,0 +1,37 @@
+{
+  "id": "pear-tart-bourdaloue",
+  "title": "pear tart bourdaloue",
+  "description": "A great French classic pear tart with almond cream in a crisp pastry case.",
+  "context": "Pâtisserie course 2012 – The Raymond Blanc Cookery School. The pastry is enough to line two pastry cases; it can be prepared in advance and frozen. You can prepare this entire dessert up to 1 day before serving.",
+  "image": "",
+  "sourceUrl": "",
+  "prepTime": 40,
+  "cookTime": 60,
+  "servings": 6,
+  "ingredients": [
+    { "name": "plain flour", "amount": 250, "unit": "g" },
+    { "name": "caster sugar", "amount": 10, "unit": "g" },
+    { "name": "unsalted butter (pastry)", "amount": 125, "unit": "g" },
+    { "name": "egg (medium, beaten)", "amount": 1, "unit": "" },
+    { "name": "sea salt", "amount": 1, "unit": "pinch" },
+    { "name": "unsalted butter (almond cream)", "amount": 50, "unit": "g" },
+    { "name": "icing sugar", "amount": 50, "unit": "g" },
+    { "name": "ground almonds", "amount": 50, "unit": "g" },
+    { "name": "egg (medium)", "amount": 1, "unit": "" },
+    { "name": "plain flour (almond cream)", "amount": 12, "unit": "g" },
+    { "name": "Poire William or other eau de vie (optional)", "amount": 20, "unit": "ml" },
+    { "name": "pear halves", "amount": 6, "unit": "" },
+    { "name": "water", "amount": 1000, "unit": "ml" },
+    { "name": "sugar (for poaching)", "amount": 300, "unit": "g" }
+  ],
+  "steps": [
+    "In a large bowl, rub together the flour, sugar, butter and salt using your fingertips until sandy in texture. Create a well in the centre and add the egg. Work the flour and butter mixture into the egg, then press together to form a ball. Lightly flour your work surface and knead with the palms of your hands until consistently blended, for a maximum of 30 seconds. Wrap in cling film and refrigerate for 30 minutes.",
+    "Combine all the almond cream ingredients in a bowl and mix until well blended. Reserve.",
+    "Preheat the oven to 175°C.",
+    "Roll the pastry to a thickness of 2 mm. Line a 21 cm x 2.5 cm tart ring with the pastry. Place on a tray lined with greaseproof paper and refrigerate for 1 hour to relax the pastry and prevent shrinkage during cooking.",
+    "Spread the almond cream on the bottom of the pastry case. Arrange the pear halves attractively on top of the cream. Sprinkle caster sugar over the tart.",
+    "Bake in the hottest part of the oven for 45 minutes, until the pastry and topping are golden in colour. Remove from the oven and allow to cool.",
+    "Run the blade of a knife around the inside of the ring to gently separate the tart, then lift the ring off. Place on a cooling rack, transfer to a serving tray, sprinkle the edges with a little icing sugar, and serve."
+  ],
+  "tags": ["french", "tart", "pear", "dessert", "baking"]
+}

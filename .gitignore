@@ -1,0 +1,90 @@
+############################
+# Visual Studio
+############################
+
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+############################
+# Build results
+############################
+
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+out/
+
+############################
+# .NET Core
+############################
+
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+############################
+# Rider / VS Code
+############################
+
+.idea/
+.vscode/
+
+############################
+# NuGet
+############################
+
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+
+############################
+# Logs
+############################
+
+*.log
+
+############################
+# OS files
+############################
+
+.DS_Store
+Thumbs.db
+
+############################
+# Test Results
+############################
+
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+############################
+# Publish output
+############################
+
+publish/
+*.Publish.xml
+
+############################
+# Local secrets
+############################
+
+appsettings.Development.json
+secrets.json
+
+############################
+# Node (if frontend in same repo)
+############################
+
+node_modules/
+dist/

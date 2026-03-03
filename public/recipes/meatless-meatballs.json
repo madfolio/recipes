@@ -1,0 +1,32 @@
+{
+  "id": "meatless-meatballs",
+  "title": "Meatless Meatballs",
+  "description": "Vegetarian mushroom and cheese meatballs served with a lemon and basil crème fraîche sauce.",
+  "context": "Even meat eaters will be fully satisfied with these morsels. Hands-on time 25min. Cooking time about 20min. Serves 4.",
+  "image": "",
+  "sourceUrl": "",
+  "prepTime": 25,
+  "cookTime": 20,
+  "servings": 4,
+  "ingredients": [
+    { "name": "mushrooms", "amount": 250, "unit": "g" },
+    { "name": "olive oil", "amount": 3, "unit": "tbsp" },
+    { "name": "vegetarian mature Cheddar, grated", "amount": 75, "unit": "g" },
+    { "name": "ground almonds", "amount": 40, "unit": "g" },
+    { "name": "red onion", "amount": 0.5, "unit": "" },
+    { "name": "fresh white breadcrumbs", "amount": 125, "unit": "g" },
+    { "name": "soy sauce", "amount": 1, "unit": "tbsp" },
+    { "name": "medium egg", "amount": 1, "unit": "" },
+    { "name": "half-fat crème fraîche", "amount": 250, "unit": "g" },
+    { "name": "lemon zest", "amount": 1, "unit": "lemon" },
+    { "name": "fresh basil", "amount": null, "unit": "" }
+  ],
+  "steps": [
+    "Whiz mushrooms in a food processor until finely chopped (if you don't have a processor, finely chop them by hand).",
+    "Heat 1 tbsp of the oil in a large frying pan over high heat. Cook the mushrooms until they are tender and any liquid in the pan has evaporated. Set aside to cool completely.",
+    "To the mushroom pan, stir in the cheese, ground almonds, grated onion, breadcrumbs, soy sauce, egg and some seasoning. Form the mixture into walnut-sized balls (makes about 16).",
+    "Heat the remaining oil in a large, clean frying pan over medium heat, and fry the balls (in batches if needed), turning occasionally, for about 5min until golden and piping hot (they may flatten slightly). Set aside in a serving bowl and cover well with foil to keep warm.",
+    "To make the sauce, melt the crème fraîche in the empty pan, then stir in the lemon zest to taste, the basil and seasoning. Serve sauce on top of meatballs with rice or pasta."
+  ],
+  "tags": ["vegetarian", "meatless", "dinner", "main"]
+}

@@ -1,0 +1,81 @@
+{
+  "id": "borscht",
+  "title": "Borscht",
+  "description": "A traditional Eastern European beetroot soup made with beef stock, vegetables and soured cream.",
+  "context": "There are numerous versions of borscht as it is a speciality of Eastern European countries, such as Russia, Lithuania, Poland and the Ukraine. It always contains beetroot, but here the traditional fermented beetroot liquid is replaced with a splash of vinegar.",
+  "image": "",
+  "sourceUrl": "",
+  "prepTime": 30,
+  "cookTime": 90,
+  "servings": 6,
+  "ingredients": [
+    {
+      "name": "rapeseed oil",
+      "amount": 2,
+      "unit": "tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": 1,
+      "unit": "medium"
+    },
+    {
+      "name": "leek",
+      "amount": 1,
+      "unit": ""
+    },
+    {
+      "name": "carrot",
+      "amount": 1,
+      "unit": ""
+    },
+    {
+      "name": "celery stick",
+      "amount": 1,
+      "unit": ""
+    },
+    {
+      "name": "raw beetroot",
+      "amount": 450,
+      "unit": "g"
+    },
+    {
+      "name": "potato",
+      "amount": 1,
+      "unit": "large"
+    },
+    {
+      "name": "tomato purée",
+      "amount": 1,
+      "unit": "tbsp"
+    },
+    {
+      "name": "hot beef stock",
+      "amount": 1.4,
+      "unit": "l"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": 2,
+      "unit": "tbsp"
+    },
+    {
+      "name": "soured cream",
+      "amount": 150,
+      "unit": "ml"
+    },
+    {
+      "name": "salt",
+      "amount": null,
+      "unit": "pinch"
+    }
+  ],
+  "steps": [
+    "Heat the oil in a large, deep pan and gently fry the onion, leek, carrot and celery with a large pinch of salt for about 20 minutes until softened.",
+    "Stir in the beetroot, potato and tomato purée. Cook for 1 minute.",
+    "Pour in the stock and vinegar and season well. Bring to the boil, then cover and simmer for 45–60 minutes until the beetroot is tender. Leave to cool.",
+    "Blitz in batches in a blender or food processor until smooth. Return to the rinsed-out pan and stir in two-thirds of the cream. Adjust the consistency with a little extra stock if necessary.",
+    "Reheat without boiling and adjust seasoning if necessary. Serve hot or chilled with an extra swirl of cream in warmed bowls."
+  ],
+  "tags": [ "soup", "beetroot", "eastern-european" ]
+}

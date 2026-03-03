@@ -1,0 +1,40 @@
+{
+  "id": "butter-chicken-belindas",
+  "title": "Belinda's Butter Chicken",
+  "description": "A homemade butter chicken made with diced chicken, aromatic spices, tomatoes, cream, and fenugreek leaves, with an option to substitute paneer.",
+  "context": "Can also use paneer (\"paneer butter masala\") instead of chicken.",
+  "image": "",
+  "sourceUrl": "",
+  "prepTime": null,
+  "cookTime": null,
+  "servings": null,
+  "ingredients": [
+    { "name": "chicken", "amount": 700, "unit": "g" },
+    { "name": "onion", "amount": 1, "unit": "" },
+    { "name": "garlic", "amount": 1.5, "unit": "tbsp" },
+    { "name": "ginger", "amount": 1, "unit": "tbsp" },
+    { "name": "cumin powder", "amount": 1, "unit": "tsp" },
+    { "name": "garam masala", "amount": 1, "unit": "tsp" },
+    { "name": "coriander powder", "amount": 1, "unit": "tsp" },
+    { "name": "fenugreek leaves (dried)", "amount": 0.5, "unit": "tsp" },
+    { "name": "cream", "amount": 60, "unit": "ml" },
+    { "name": "tinned tomatoes (chopped)", "amount": 400, "unit": "g" },
+    { "name": "chili powder", "amount": null, "unit": "" },
+    { "name": "sugar (heaped)", "amount": 1, "unit": "tsp" },
+    { "name": "salt", "amount": 1.5, "unit": "tsp" },
+    { "name": "butter", "amount": null, "unit": "" }
+  ],
+  "steps": [
+    "Dice 600–700 g chicken.",
+    "Finely chop 1 onion.",
+    "Melt a knob of butter over low heat.",
+    "Fry the onion until lightly browned and caramelised.",
+    "Add garlic and ginger and cook for 1–2 minutes until browned but not burnt.",
+    "Add the dried spices with a little water.",
+    "If the mixture gets too dry, add a little more butter or oil.",
+    "Add the chopped tomatoes and simmer on medium heat for about 10 minutes until browned.",
+    "Add the chicken, fenugreek leaves, sugar, and salt, and cook until the chicken is cooked through.",
+    "Stir in the cream to taste before serving."
+  ],
+  "tags": ["indian", "curry", "chicken", "dinner"]
+}

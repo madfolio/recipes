@@ -1,0 +1,85 @@
+{
+  "id": "cheesy-glamorgan-bake",
+  "title": "Cheesy Glamorgan Bake",
+  "description": "A savoury baked dish made with leeks, mature cheddar, breadcrumbs, herbs and mustard, bound with egg and milk.",
+  "context": "",
+  "image": "",
+  "sourceUrl": "",
+  "prepTime": null,
+  "cookTime": 30,
+  "servings": null,
+  "ingredients": [
+    {
+      "name": "butter",
+      "amount": 40,
+      "unit": "g"
+    },
+    {
+      "name": "leeks, sliced",
+      "amount": 250,
+      "unit": "g"
+    },
+    {
+      "name": "breadcrumbs",
+      "amount": 450,
+      "unit": "g"
+    },
+    {
+      "name": "mature cheddar, grated",
+      "amount": 200,
+      "unit": "g"
+    },
+    {
+      "name": "fresh herbs (thyme, rosemary, sage, chives)",
+      "amount": 1,
+      "unit": "tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": null,
+      "unit": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": null,
+      "unit": ""
+    },
+    {
+      "name": "eggs, beaten",
+      "amount": 2,
+      "unit": ""
+    },
+    {
+      "name": "milk",
+      "amount": 280,
+      "unit": "ml"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": 1.5,
+      "unit": "tsp"
+    },
+    {
+      "name": "cheddar for topping",
+      "amount": null,
+      "unit": ""
+    }
+  ],
+  "steps": [
+    "Preheat the oven to 180°C (fan).",
+    "Fry the leeks in the butter for about 5 minutes until soft.",
+    "Place the breadcrumbs in a bowl. Add the cooked leeks, grated cheddar, fresh herbs, salt and pepper.",
+    "Mix the eggs, milk and Dijon mustard together, then pour over the breadcrumb mixture. Mix until all the liquid is absorbed.",
+    "Tip into a baking dish approximately 25cm wide and 2–3cm deep. Press the mixture down with the back of a spoon.",
+    "Sprinkle extra cheddar over the top.",
+    "Bake for 30 minutes.",
+    "Leave to cool slightly to firm up before serving."
+  ],
+  "tags": [
+    "vegetarian",
+    "baked",
+    "cheese",
+    "leek",
+    "savoury"
+  ]
+}

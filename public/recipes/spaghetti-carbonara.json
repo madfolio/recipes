@@ -1,0 +1,28 @@
+{
+  "id": "spaghetti-carbonara",
+  "title": "Spaghetti carbonara",
+  "description": "A classic spaghetti carbonara made with egg yolks, pancetta, parmesan and pecorino for a glossy, balanced sauce without cream.",
+  "context": "Cream is not necessary here, egg yolks are better than whole eggs, and a combination of parmesan and pecorino gives the dish a lovely balance. Be careful not to cook the yolks, and add the pasta cooking water gently - you want a yellow and glossy sauce, not something thin and watery. Russell Norman",
+  "image": "",
+  "sourceUrl": "",
+  "prepTime": null,
+  "cookTime": null,
+  "servings": 4,
+  "ingredients": [
+    { "name": "dried spaghetti", "amount": 400, "unit": "g" },
+    { "name": "extra virgin olive oil", "amount": 30, "unit": "ml" },
+    { "name": "pancetta", "amount": 150, "unit": "g" },
+    { "name": "black pepper", "amount": null, "unit": "" },
+    { "name": "egg yolks", "amount": 4, "unit": "" },
+    { "name": "parmesan", "amount": 100, "unit": "g" },
+    { "name": "pecorino", "amount": 20, "unit": "g" }
+  ],
+  "steps": [
+    "Bring a large pan of salted water to the boil and cook the spaghetti according to the packet’s instructions.",
+    "Meanwhile, heat the olive oil in a large, heavy-based frying pan and sauté the pancetta until it is starting to crisp and is turning golden brown.",
+    "Just before the spaghetti is done, scoop out about 240 ml of the cooking water and set aside. Drain the pasta and transfer to the pan of pancetta. While still on a low heat, coat every strand of spaghetti with the oil and make sure the pancetta is well incorporated. Add a few good twists of black pepper.",
+    "Remove the pan from the heat. Add the egg yolks and parmesan, then stir well with a splash or two of the reserved cooking water. Continue until the glossy sauce coats all the pasta strands.",
+    "Divide equally onto four warmed plates. Add the grated pecorino and a few more twists of black pepper."
+  ],
+  "tags": ["italian", "pasta", "carbonara", "dinner"]
+}

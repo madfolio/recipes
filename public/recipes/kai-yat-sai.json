@@ -1,0 +1,36 @@
+{
+  "id": "kai-yat-sai",
+  "title": "Kai Yat Sai",
+  "description": "A Thai-style stuffed omelette filled with minced chicken or tofu, vegetables, and savory sauces.",
+  "context": "",
+  "image": "",
+  "sourceUrl": "",
+  "prepTime": null,
+  "cookTime": null,
+  "servings": 4,
+  "ingredients": [
+    { "name": "minced chicken (or mushrooms or tofu)", "amount": 400, "unit": "g" },
+    { "name": "green beans", "amount": 125, "unit": "g" },
+    { "name": "spring onions", "amount": 3, "unit": "" },
+    { "name": "coriander", "amount": null, "unit": "" },
+    { "name": "cherry tomatoes", "amount": 9, "unit": "" },
+    { "name": "garlic cloves", "amount": 3, "unit": "" },
+    { "name": "shallot", "amount": 1, "unit": "" },
+    { "name": "oil (for frying)", "amount": 2, "unit": "tbsp" },
+    { "name": "fish sauce", "amount": 3.5, "unit": "tbsp" },
+    { "name": "soy sauce", "amount": 1, "unit": "tbsp" },
+    { "name": "oyster sauce", "amount": 1, "unit": "tbsp" },
+    { "name": "tomato ketchup", "amount": 2, "unit": "tbsp" },
+    { "name": "eggs", "amount": 8, "unit": "" },
+    { "name": "white pepper", "amount": null, "unit": "" }
+  ],
+  "steps": [
+    "Whisk the eggs with 1 tbsp of fish sauce.",
+    "Prepare all vegetables: finely chop green beans, spring onions, coriander, shallot; quarter cherry tomatoes; crush garlic.",
+    "Heat oil in a wok over high heat (around 180°C). Fry garlic and shallots, ensuring they do not burn.",
+    "Add minced chicken (or mushrooms or tofu) and fry until halfway cooked. Add green beans and cook for 5 minutes.",
+    "Add coriander, cherry tomatoes, spring onions, soy sauce, oyster sauce, tomato ketchup, remaining fish sauce, and white pepper. Fry for 5 more minutes.",
+    "Using a ladle and a large pan, cook thin omelettes (about 2 ladles of egg mixture per omelette). Fill each omelette with the cooked mixture and fold."
+  ],
+  "tags": ["thai", "omelette", "chicken", "stirfry"]
+}

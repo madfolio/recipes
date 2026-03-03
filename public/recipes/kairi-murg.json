@@ -1,0 +1,36 @@
+{
+  "id": "kairi-murg",
+  "title": "Kairi Murg",
+  "description": "A Hyderabadi mango chicken dish made with green chillies, spices and raw mango.",
+  "context": "Origin: Hyderabad",
+  "image": "",
+  "sourceUrl": "",
+  "prepTime": 30,
+  "cookTime": 50,
+  "servings": 4,
+  "ingredients": [
+    { "name": "vegetable oil", "amount": 60, "unit": "ml" },
+    { "name": "chicken", "amount": 750, "unit": "g" },
+    { "name": "green chillies, deseeded and chopped", "amount": 2, "unit": "" },
+    { "name": "ground turmeric", "amount": 0.33, "unit": "tsp" },
+    { "name": "chilli powder", "amount": 1, "unit": "tsp" },
+    { "name": "onions, sliced", "amount": 3, "unit": "" },
+    { "name": "ginger paste", "amount": 1, "unit": "tsp" },
+    { "name": "garlic paste", "amount": 0.5, "unit": "tsp" },
+    { "name": "raw mangoes, stoned and cut into small pieces", "amount": 2, "unit": "" },
+    { "name": "coriander (cilantro), chopped", "amount": null, "unit": "" },
+    { "name": "salt", "amount": null, "unit": "" },
+    { "name": "water", "amount": 250, "unit": "ml" },
+    { "name": "water (for chilli paste)", "amount": 15, "unit": "ml" }
+  ],
+  "steps": [
+    "Heat about 30 ml of oil in a large, heavy-based pan over medium heat, add the chicken pieces and stir-fry for about 8–10 minutes, or until they are evenly browned all over.",
+    "Add the chillies and turmeric with 250 ml water and bring to the boil. Reduce the heat and simmer for about 20 minutes, stirring occasionally.",
+    "Put the chilli powder in a small bowl, add 15 ml water and mix together.",
+    "Heat the remaining oil in another pan over medium heat, add the onions and stir-fry for about 4 minutes, or until light brown.",
+    "Add the ginger and garlic pastes and chilli powder mixture and season with salt, then fry for a further 2 minutes.",
+    "Reduce the heat to low, cover and cook for 3 minutes to let the spices blend well.",
+    "Add the chicken and the raw mango and cook over low heat for about 10 minutes, then remove from the heat and adjust the seasoning, if necessary."
+  ],
+  "tags": ["chicken", "indian", "hyderabadi", "mango", "spicy"]
+}

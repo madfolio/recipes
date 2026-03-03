@@ -1,0 +1,21 @@
+{
+  "id": "unique-recipe-id",
+  "title": "Recipe Title",
+  "description": "Short description of the recipe.",
+  "context": "Optional context or story about the recipe.",
+  "prepTime": 0,
+  "cookTime": 0,
+  "servings": 0,
+  "ingredients": [
+    {
+      "name": "Ingredient name",
+      "amount": 0,
+      "unit": "unit (g, ml, pcs, etc.)"
+    }
+  ],
+  "steps": [
+    "Step 1 instruction.",
+    "Step 2 instruction."
+  ],
+  "tags": [ "tag1", "tag2" ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "hoisin-marinated-salmon-with-chilli-soy-broccoli",
+  "title": "Hoisin Marinated Salmon with Chilli Soy Broccoli",
+  "description": "Salmon fillets marinated in a hoisin, soy and ginger mixture, roasted and served with tenderstem broccoli dressed in a chilli soy dressing.",
+  "context": "The combination of hoisin and fish works here because of the meatiness of the salmon. Recipe by Bill Granger. Featured in Good Housekeeping, October 2012.",
+  "image": "",
+  "sourceUrl": "",
+  "prepTime": 25,
+  "cookTime": 15,
+  "servings": 4,
+  "ingredients": [
+    { "name": "soy sauce", "amount": 2, "unit": "tbsp" },
+    { "name": "hoisin sauce", "amount": 2, "unit": "tbsp" },
+    { "name": "rice wine vinegar", "amount": 1, "unit": "tbsp" },
+    { "name": "olive oil", "amount": 1, "unit": "tbsp" },
+    { "name": "lemon juice", "amount": 1, "unit": "tbsp" },
+    { "name": "fresh root ginger, grated", "amount": 2.5, "unit": "cm" },
+    { "name": "garlic cloves, finely chopped", "amount": 2, "unit": "" },
+    { "name": "red chilli, deseeded and roughly chopped", "amount": 1, "unit": "" },
+    { "name": "salmon fillets, skinned", "amount": 700, "unit": "g" },
+    { "name": "soy sauce", "amount": 100, "unit": "ml" },
+    { "name": "Chinese black vinegar", "amount": 2, "unit": "tbsp" },
+    { "name": "sunflower oil", "amount": 2, "unit": "tbsp" },
+    { "name": "red chilli, deseeded and finely chopped", "amount": 1, "unit": "" },
+    { "name": "caster sugar", "amount": 0.5, "unit": "tsp" },
+    { "name": "lemon or lime juice", "amount": 1, "unit": "tbsp" },
+    { "name": "tenderstem broccoli, trimmed", "amount": 500, "unit": "g" }
+  ],
+  "steps": [
+    "In a large bowl, stir together the soy sauce, hoisin sauce, rice wine vinegar, olive oil, lemon juice, ginger, garlic and chilli. Add the salmon and leave to marinate in the fridge for at least 15 minutes and up to 1 hour.",
+    "Preheat the oven to 220°C (200°C fan) mark 7. Transfer salmon fillets to a roasting tin lined with baking parchment, discarding marinade. Roast for 15 minutes.",
+    "Bring a pan of water to the boil for the chilli soy broccoli. Put soy sauce, vinegar, 1 tbsp of the oil, the chilli, sugar and lemon/lime juice in a bowl and stir.",
+    "Add the remaining oil to the boiling water and cook broccoli for 30 seconds, or until tender but still bright green. Drain.",
+    "Arrange broccoli on a warm serving platter. Serve with the dressing poured over and top with the salmon."
+  ],
+  "tags": ["salmon", "seafood", "asian", "dinner", "gluten"]
+}

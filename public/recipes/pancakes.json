@@ -1,0 +1,21 @@
+
+{
+  "id": "pancakes",
+  "title": "Fluffy Pancakes",
+  "description": "Classic fluffy breakfast pancakes.",
+  "context": "We loved this recipe from our Italian cousins. We made it together in Milan during a rainy spring afternoon.",
+  "prepTime": 10,
+  "cookTime": 15,
+  "servings": 4,
+  "ingredients": [
+    { "name": "Flour", "amount": 200, "unit": "g" },
+    { "name": "Milk", "amount": 300, "unit": "ml" },
+    { "name": "Eggs", "amount": 2, "unit": "pcs" }
+  ],
+  "steps": [
+    "Mix dry ingredients.",
+    "Add wet ingredients.",
+    "Cook in pan."
+  ],
+  "tags": ["breakfast", "sweet"]
+}
